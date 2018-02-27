@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+            "name": "rajiv",
+            "email": "rajiv@eurofins.com",
+            "address": {
+                "addressLine1":"abc",
+                "addressLine2":"xyz"
+            }
+        },
+        {
+            "name": "ranjan",
+            "email": "ranjan@eurofins.com",
+            "address": {
+                "addressLine1":"abc1",
+                "addressLine2":"xyz1"
+            }
+        }
+    ]
+}
